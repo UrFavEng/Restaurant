@@ -1,0 +1,29 @@
+.aboutus {
+  background-image: url(/src/assets/bg.png);
+}
+.fristword {
+  text-indent: 40px;
+}
+.splide {
+  padding: 0 !important;
+}
+.bordersub {
+  border: 1px solid #f5efdb;
+}
+.bordercontainer {
+  border: 0.25px solid #dcca8728;
+  border-top: 0px;
+}
+html {
+  scroll-behavior: smooth;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+.container {
+  overflow-x: hidden;
+}
